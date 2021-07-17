@@ -24,6 +24,7 @@ There is already a sample env file, and all the keywords from the env file must 
 | DB_NAME         | Name database connection         |
 | DB_PORT         | Port database connection         |
 | PORT            | Port service                     |
+| API_KEY_ELEVANIA| Api Key for Elevania service integration    |
 
 #### 3. Launch the apps
 command for running it locally :
