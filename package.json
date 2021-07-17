@@ -1,0 +1,26 @@
+{
+  "name": "crud_product_hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Beni",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5",
+    "dotenv": "^10.0.0",
+    "joi": "^17.4.1",
+    "knex": "^0.95.7",
+    "moment": "^2.29.1",
+    "nanoid": "^3.1.23",
+    "pg": "^8.6.0",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
